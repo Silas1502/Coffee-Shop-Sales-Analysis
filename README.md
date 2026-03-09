@@ -1,4 +1,4 @@
-# ☕ Phân Tích Doanh Thu Quán Cà Phê (Dự Án Excel)
+# ☕ Phân Tích Doanh Thu Quán Cà Phê
 
 ## 📊 1. Tổng Quan Dự Án
 
