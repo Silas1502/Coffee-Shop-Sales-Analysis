@@ -13,7 +13,7 @@ Dashboard.
 📦 Quy mô dữ liệu: **10.000 giao dịch**.
 
 
-## 2. Mục Tiêu
+## 🎯 2. Mục Tiêu
 
 Mục tiêu của dự án bao gồm:
 
@@ -26,7 +26,7 @@ Mục tiêu của dự án bao gồm:
 
 
 
-## 3. Mô Tả Dataset
+## 🗂️ 3. Mô Tả Dataset
 
 Các cột chính trong dataset:
 ```
@@ -51,10 +51,10 @@ Các cột chính trong dataset:
   Transaction Date             Ngày giao dịch
   -----------------------------------------------------------------------
 ```
-Nguồn dữ liệu: dữ liệu bán hàng quán cà phê mô phỏng có chủ ý chứa các
+📁 Nguồn dữ liệu: dữ liệu bán hàng quán cà phê mô phỏng có chủ ý chứa các
 vấn đề về chất lượng dữ liệu.
 
-## 4. Quy trình thực hiện
+## ⚙️ 4. Quy trình thực hiện
 1. Thu thập dữ liệu từ Kaggle.
 2. Làm sạch dữ liệu bằng Power Query.
 3. Chuyển đổi và chuẩn hóa dữ liệu.
@@ -63,7 +63,7 @@ vấn đề về chất lượng dữ liệu.
 6. Xây dựng Dashboard để trực quan hóa dữ liệu.
 7. Rút ra các insight kinh doanh từ dữ liệu.
 
-## 5. Làm Sạch Dữ Liệu
+## 🧹 5. Làm Sạch Dữ Liệu
 
 Quá trình làm sạch dữ liệu được thực hiện trong Power Query của Excel để chuẩn bị cho
 việc phân tích.
@@ -88,7 +88,7 @@ Sau khi làm sạch, dataset còn lại 9,521 dòng đã trở nên phù hợp c
 
 
 
-## 6. Các Câu Hỏi Phân Tích
+## ❓ 6. Các Câu Hỏi Phân Tích
 
 Các câu hỏi được sử dụng trong quá trình phân tích:
 
@@ -109,7 +109,7 @@ Các câu hỏi được sử dụng trong quá trình phân tích:
   - Trung bình một đơn hàng sẽ bao gồm bao nhiêu sản phẩm?
 
 
-## 7. Phân Tích Pivot Table
+## 📊 7. Phân Tích Pivot Table
 
 Một số Pivot Table đã được tạo để tổng hợp dữ liệu:
 
@@ -123,7 +123,7 @@ Pivot Table giúp nhanh chóng phát hiện xu hướng và mẫu dữ liệu tr
 dataset.
 
 
-## 8. Dashboard
+## 📈 8. Dashboard
 
 Một dashboard tương tác được xây dựng trong Excel để trực quan hóa kết
 quả phân tích.
@@ -133,11 +133,10 @@ Các thành phần của dashboard bao gồm đầy đủ các biểu đồ liê
 Dashboard giúp người dùng nhanh chóng hiểu được hiệu suất kinh doanh của
 quán cà phê.
 
-Dashboard:
-<img width="1776" height="757" alt="image" src="https://github.com/user-attachments/assets/85e43dd4-b017-4011-963a-f3f263b218a7" />
+# 📷 Dashboard:
+<img width="1330" height="557" alt="image" src="https://github.com/user-attachments/assets/6d6359e8-60f9-4aac-b65b-cea1c0b751a7" />
 
-
-## 9. Insight Chính
+## 💡 9. Insight Chính
 
 Một số insight có thể rút ra từ phân tích:
 
@@ -152,7 +151,7 @@ Những insight này có thể giúp quán cà phê cải thiện chiến lượ
 và hoạt động kinh doanh.
 
 
-## 10. Công Cụ Sử Dụng
+## 🛠️ 10. Công Cụ Sử Dụng
 
 -   **Microsoft Excel**
     -   Data Cleaning
@@ -161,7 +160,7 @@ và hoạt động kinh doanh.
     -   Dashboard Design
 
 
-## 11. Cấu Trúc Dự Án
+## 📁 11. Cấu Trúc Dự Án
 
     coffee-shop-sales-analysis
     │
@@ -169,4 +168,4 @@ và hoạt động kinh doanh.
     ├── Coffee_Shop_Analyst.xlsx
     └── README.md
 
-Thanks for reading!
+# ⭐ Thanks for reading!
