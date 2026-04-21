@@ -1,6 +1,6 @@
-# ☕ Phân Tích Doanh Thu Quán Cà Phê
+# ☕ Phân tích doanh thu quán Cà Phê
 
-## 📊 1. Tổng Quan Dự Án
+## 📊 1. Tổng quan dự án
 
 Dự án này phân tích dữ liệu bán hàng của một quán cà phê nhằm hiểu rõ
 hiệu suất kinh doanh và tìm ra các insight giúp cải thiện doanh thu và
@@ -13,7 +13,7 @@ Dashboard.
 📦 Quy mô dữ liệu: **10.000 giao dịch**.
 
 
-## 🎯 2. Mục Tiêu
+## 🎯 2. Mục tiêu
 
 Mục tiêu của dự án bao gồm:
 
@@ -26,7 +26,7 @@ Mục tiêu của dự án bao gồm:
 
 
 
-## 🗂️ 3. Mô Tả Dataset
+## 🗂️ 3. Mô tả Dataset
 
 Các cột chính trong dataset:
 ```
@@ -63,7 +63,7 @@ vấn đề về chất lượng dữ liệu.
 6. Xây dựng Dashboard để trực quan hóa dữ liệu.
 7. Rút ra các insight kinh doanh từ dữ liệu.
 
-## 🧹 5. Làm Sạch Dữ Liệu
+## 🧹 5. Làm sạch dữ liệu
 
 Quá trình làm sạch dữ liệu được thực hiện trong Power Query của Excel để chuẩn bị cho
 việc phân tích.
@@ -88,7 +88,7 @@ Sau khi làm sạch, dataset còn lại 9,521 dòng đã trở nên phù hợp c
 
 
 
-## ❓ 6. Các Câu Hỏi Phân Tích
+## ❓ 6. Các chiều phân tích
 
 Các câu hỏi được sử dụng trong quá trình phân tích:
 
@@ -109,7 +109,7 @@ Các câu hỏi được sử dụng trong quá trình phân tích:
   - Trung bình một đơn hàng sẽ bao gồm bao nhiêu sản phẩm?
 
 
-## 📊 7. Phân Tích Pivot Table
+## 📊 7. Phân tích Pivot Table
 
 Một số Pivot Table đã được tạo để tổng hợp dữ liệu:
 
